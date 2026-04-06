@@ -40,7 +40,8 @@ This version includes:
 
 ## 📸 Demo
 
-<a href="/course_images/ai110/pawpal_demo.png" target="_blank"><img src='/course_images/ai110/pawpal_demo.png' title='PawPal App' width='' alt='PawPal App' class='center-block' /></a>
+<img width="1504" height="846" alt="Pets_App" src="https://github.com/user-attachments/assets/e3d31002-c114-4371-90ac-6fc73b62a210" />
+
 
 ## Testing PawPal+
 
