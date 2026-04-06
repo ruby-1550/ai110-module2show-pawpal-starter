@@ -22,6 +22,38 @@ Your final app should:
 - Display the plan clearly (and ideally explain the reasoning)
 - Include tests for the most important scheduling behaviors
 
+## Features
+
+- Create owners, pets, and care tasks with duration, priority, and time.
+- Build a daily schedule that fits within available time.
+- Sort tasks by time and surface basic conflicts.
+- Support recurring daily/weekly tasks that re-create after completion.
+
+## Smarter Scheduling
+
+This version includes:
+
+- Sorting tasks by time (with priority as a tiebreaker)
+- Filtering by pet or completion status
+- Recurring task creation for daily/weekly tasks
+- Conflict warnings when tasks share the same time
+
+## 📸 Demo
+
+<a href="/course_images/ai110/pawpal_demo.png" target="_blank"><img src='/course_images/ai110/pawpal_demo.png' title='PawPal App' width='' alt='PawPal App' class='center-block' /></a>
+
+## Testing PawPal+
+
+Run tests with:
+
+```bash
+python -m pytest
+```
+
+Tests cover task completion, task addition, sorting by time, recurrence creation, and conflict detection.
+
+Confidence level: ★★★★☆
+
 ## Getting started
 
 ### Setup
